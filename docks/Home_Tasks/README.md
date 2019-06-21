@@ -10,6 +10,8 @@
 8. On WebUI (github) make PR (Pull Request) into main fork and branch <YOR_GROUP_BRANCH> from your fork and your <YOR_GROUP_BRANCH>
 9. Wait for review
 
+> Usefull link: https://sites.google.com/site/feexpr/Downhome/git
+
 ## 01. CI/CD
 Registration on slack and join to the chanel
 - https://sa-itacademy-by.slack.com
@@ -42,8 +44,10 @@ Play the following situations:
 - Release phase - all commits should be inside master (except hotfix)
 - Hotfix deploy - commit from hotfix/we_gonna_die branch should be in master first, then in another branches too
 
+Last commands should be displaying list of your commits in each above mentioned branches
+
 All your commands put into files 02.GIT.Local.md and add to your repository, then prepare PR (Pull Request)
-> Use git markup to organize your text/output
+> Use git markup to organize your text/output. See [link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 **Additional:** Create README.md with project description in your folder on your github repository
 
