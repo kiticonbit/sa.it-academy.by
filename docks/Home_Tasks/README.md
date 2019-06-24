@@ -44,12 +44,12 @@ Play the following situations:
 - Release phase - all commits should be inside master (except hotfix)
 - Hotfix deploy - commit from hotfix/we_gonna_die branch should be in master first, then in another branches too
 
-Last commands should be displaying list of your commits in each above mentioned branches
+In the end of this "play" you should provide list of your commits in above mentioned branches. You can add this output to your report, in the tail.
 
 All your commands put into files 02.GIT.Local.md and add to your repository, then prepare PR (Pull Request)
 > Use git markup to organize your text/output. See [link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-**Additional:** Create README.md with project description in your folder on your github repository
+**Additional:** Create README.md with project description in your folder. You will be maintaing its during our cource till the final demo
 
 ## 03. GIT hosting
 Github/Gitlab/Bitbucket
@@ -58,6 +58,7 @@ Github/Gitlab/Bitbucket
 - Synchronise with with your local repository from previous task
 - Add project into remote repositories each all, one by one
 - Create slack/email integration push/commit events
+- Automate pushing your commits to all git hostings (bash/python/go.. scripts)
 
 All your repository urls put into files `03.GIT.Hosting.md` and add to your repository, then prepare PR (Pull Request)
 
